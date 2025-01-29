@@ -1,5 +1,5 @@
 # WhatsappBot
-Bot for whatsapp using python....
+Bot for whatsapp using python.
 
 # How to use
 Run the python file.
